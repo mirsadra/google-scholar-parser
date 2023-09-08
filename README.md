@@ -60,5 +60,7 @@ You can customize the notebook by modifying the following functions:
 
 If you encounter any issues or have suggestions for improvements, please [open an issue](URL_to_repository_issues) in this GitHub repository. Contributions and pull requests are welcome!
 
+### Buy me a coffee!
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/miirsadra)
 
 
