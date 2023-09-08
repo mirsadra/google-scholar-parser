@@ -31,3 +31,31 @@ Before using this notebook, make sure you have the following:
 
    ```python
    url = "https://scholar.google.com/scholar?start=0&q=tirzepatide&hl=en&as_sdt=0,5"
+
+Execute the notebook cell by cell. The notebook is divided into sections, each responsible for a specific task:
+
+1. Scraping the Google Scholar search results page.
+2. Extracting paper tags, citation links, and other relevant information.
+3. Parsing and formatting the data.
+4. Creating a CSV file with the extracted information.
+
+After executing the entire notebook, the CSV file containing the paper information will be generated. You can find this file in the same directory as the notebook.
+
+## Customization
+
+You can customize the notebook by modifying the following functions:
+
+- `get_paperinfo(paper_url)`: This function retrieves the content of a Google Scholar page. You can use it to scrape other search results.
+
+- `get_tags(doc)`: Modify this function to select different tags or elements from the page source based on your requirements.
+
+- `get_papertitle(paper_tag)`: If you want to extract additional information from the paper tags, customize this function.
+
+- `get_author_year_publi_info(authors_tag)`: Adjust this function to extract different information from the author tags.
+
+## Issues and Contributions
+
+If you encounter any issues or have suggestions for improvements, please [open an issue](URL_to_repository_issues) in this GitHub repository. Contributions and pull requests are welcome!
+
+
+
