@@ -12,6 +12,9 @@ This Jupyter Notebook allows you to scrape Google Scholar search results, extrac
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png" alt="Jupyter Notebook Logo" width="200">
 </p>
 
+## Sample Output
+![Sample Table](table.png)
+
 ## Prerequisites
 
 Before using this notebook, make sure you have the following:
