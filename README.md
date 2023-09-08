@@ -1,6 +1,6 @@
 <!-- Add Google Scholar Logo -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.png" alt="Google Scholar Logo" width="200">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png?20200110094142" alt="Google Scholar Logo" width="200">
 </p>
 
 # Google Scholar Web Scraping and CSV Creation
