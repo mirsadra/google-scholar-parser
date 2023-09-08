@@ -19,16 +19,17 @@ This Jupyter Notebook allows you to scrape Google Scholar search results, extrac
 
 Before using this notebook, make sure you have the following:
 
-- Python 3.x installed
-- Required libraries installed (you can install them using `pip`):
+- Python 3.10 installed
+- Required libraries installed (you can install them using `pip`:
   - `requests`
   - `beautifulsoup4`
+  - `pandas`
 
 ## Usage
 
 1. Clone or download this repository to your local machine.
 
-2. Open the Jupyter Notebook `Google_Scholar_Web_Scraping.ipynb` in your Jupyter Notebook environment.
+2. Open the Jupyter Notebook `parsing.ipynb` in your Jupyter Notebook environment.
 
 3. Modify the `url` variable to specify your Google Scholar search query. For example, you can change `"tirzepatide"` to your desired search term.
 
