@@ -1,7 +1,7 @@
 # Google Scholar Web Scraping and CSV Creation
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/your-project.svg)](https://github.com/your-username/your-project/stargazers)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/your-username/your-project)
+[![GitHub stars](https://img.shields.io/github/stars/mirsadra/google-scholar-parser.svg)](https://github.com/mirsadra/google-scholar-parser/stargazers)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/mirsadra/google-scholar-parser)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
 
